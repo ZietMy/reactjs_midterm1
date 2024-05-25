@@ -30,7 +30,7 @@ export const AVAILABLE_PLACES = [
     id: "p2",
     title: "Sahara Desert Dunes",
     image: {
-      src: desertDunes,
+      src: amazonRiverImg,
       alt: "Golden dunes stretching to the horizon in the Sahara Desert.",
     },
   },
